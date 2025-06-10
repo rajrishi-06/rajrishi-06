@@ -1,32 +1,91 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kotha Raj Rishi Reddy
-=============================================================================================================================================
+<div align="center">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #00ff00; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+    <span style="font-size: 2.5em;">👋 Hi, I'm Kotha Raj Rishi Reddy</span>
+  </h1>
+  <h3 style="color: #4a9eff; font-weight: 500; margin-top: -10px;">
+    Web Developer | Programmer | Problem Solver
+  </h3>
+  <img src="https://komarev.com/ghpvc/?username=rajrishi-06&label=Profile%20views&color=0e75b6&style=flat" alt="rajrishi-06" />
+</div>
 
-Web Developer, Programmer and Python Devloper
----------------------------------------------
+<div style="display: flex; justify-content: space-between; align-items: left; margin: 20px 0; padding: 0 20px;">
+  <div style="flex: 1;">
+    <h2 style="color: #ff6b6b; margin-bottom: 15px;">🚀 About Me</h2>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin: 8px 0;">🌍 Based in <b>India</b></li>
+      <li style="margin: 8px 0;">🧠 Learning <b>Advanced Web Development</b></li>
+      <li style="margin: 8px 0;">🤝 Open to <b>Interesting Projects</b></li>
+      <li style="margin: 8px 0;">📫 Reach me at <b>rajrishi0109@gmail.com</b></li>
+      <li style="margin: 8px 0;">⚡ Fun fact: <b>I love to play Games!</b></li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="coding" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  </div>
+</div>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [rajrishi0109@gmail.com](mailto:rajrishi0109@gmail.com)
-* 🧠  I'm learning Advanced Web Dvelopment
-* 🤝  I'm open to collaborating on Intresting Projects irrespective of programming language.
+<div style="background: linear-gradient(45deg, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <h2 style="color: #4a9eff; text-align: center; margin-bottom: 20px;">🛠️ Tech Stack</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css,react,nextjs,bootstrap,tailwind,nodejs,postgres,mongodb,mysql,django,flask,git,github,vscode&theme=dark" alt="Tech Stack" style="max-width: 100%;"/>
+  </div>
+</div>
 
-### Skills
+<div style="text-align: center; margin: 20px 0;">
+  <h2 style="color: #ff6b6b;">🌟 Connect With Me</h2>
+  <div style="display: flex; justify-content: center; gap: 15px; margin-top: 15px;">
+    <a href="https://www.github.com/rajrishi-06" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/kotha-raj-rishi-reddy-21b6562a1" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="http://www.instagram.com/rajrishi__.06" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </div>
+</div>
 
+<div style="background: linear-gradient(45deg, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <h2 style="color: #4a9eff; text-align: center; margin-bottom: 20px;">🏆 Competitive Programming</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 10px;">
+    <div style="text-align: center;">
+      <h3 style="color: #ff6b6b;">LeetCode</h3>
+      <img src="https://leetcard.jacoblin.cool/__rajrishi__" alt="LeetCode Stats" style="max-width: 100%; border-radius: 8px;"/>
+    </div>
+    <div style="text-align: center;">
+      <h3 style="color: #ff6b6b;">Codeforces</h3>
+      <img src="https://cp-card.vercel.app/card/cf/rajrishi0609/profile" alt="Codeforces Profile" style="max-width: 100%; border-radius: 8px;"/>
+      <img src="https://cp-card.vercel.app/card/cf/rajrishi0609/heatmap" alt="Codeforces Heatmap" style="max-width: 100%; border-radius: 8px; margin-top: 10px;"/>
+    </div>
+    <div style="text-align: center;">
+      <h3 style="color: #ff6b6b;">CodeChef</h3>
+      <img src="https://cp-card.vercel.app/card/cc/rajrishi_nits/profile" alt="CodeChef Profile" style="max-width: 100%; border-radius: 8px;"/>
+    </div>
+  </div>
+</div>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
+<div style="background: linear-gradient(45deg, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <h2 style="color: #4a9eff; text-align: center; margin-bottom: 20px;">📊 GitHub Stats</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajrishi-06&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%; border-radius: 8px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajrishi-06&theme=radical" alt="GitHub Streak" style="max-width: 100%; border-radius: 8px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajrishi-06&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; border-radius: 8px;"/>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 10px; margin-top: 20px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=rajrishi-06&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" style="max-width: 100%; border-radius: 8px;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajrishi-06&theme=radical" alt="GitHub Profile Details" style="max-width: 100%; border-radius: 8px;"/>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 10px; margin-top: 20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajrishi-06&theme=radical" alt="Repos Per Language" style="max-width: 100%; border-radius: 8px;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajrishi-06&theme=radical" alt="Most Commit Language" style="max-width: 100%; border-radius: 8px;"/>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 10px; margin-top: 20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajrishi-06&theme=radical" alt="GitHub Stats" style="max-width: 100%; border-radius: 8px;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajrishi-06&theme=radical" alt="Productive Time" style="max-width: 100%; border-radius: 8px;"/>
+  </div>
+</div>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/rajrishi-06" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/rajrishi__.06" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kotha-raj-rishi-reddy-21b6562a1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rajrishi-06"><img src="https://github-readme-stats.vercel.app/api?username=rajrishi-06&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="rajrishi-06's GitHub stats" /></a>
-
-<a href="http://www.github.com/rajrishi-06"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rajrishi-06&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/rajrishi-06" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajrishi-06&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/rajrishi-06/rajrishi-06/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" style="max-width: 100%; border-radius: 8px;"/>
+</div>
