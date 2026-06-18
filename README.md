@@ -36,7 +36,7 @@ const developer = {
     ],
     
     contact: "rajrishi0109@gmail.com",
-    funFact: "I love gaming and solving complex puzzles!"
+    funFact: "I love gaming and solving complex puzzles"
 };
 ```
 
