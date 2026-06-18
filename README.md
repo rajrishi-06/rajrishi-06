@@ -102,7 +102,7 @@ const developer = {
 
 <br/>
 
-## GitHub Analytics
+## GitHub Analytic
 
 <div align="center">
 
